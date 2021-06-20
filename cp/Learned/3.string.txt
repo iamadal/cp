@@ -1,0 +1,9 @@
+New Topics
+01.remove white space from string
+02. finding multiple occurance inside a string array   
+03. read string with space.
+    string str;
+    getline(cin,str)
+
+
+     

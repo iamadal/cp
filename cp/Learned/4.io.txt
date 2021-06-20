@@ -1,0 +1,3 @@
+fast Io
+
+ios::sync_with_stdio(false0 ; cin.tie(0);

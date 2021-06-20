@@ -1,0 +1,2 @@
+01. Principal Diagonal i == j
+02. Secondary Diagonal i+j = row number
